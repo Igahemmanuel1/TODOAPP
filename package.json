@@ -1,5 +1,5 @@
 {
-  "homepage":https://github.com/Igahemmanuel1/Todo-List-App.git,
+  "homepage": "https://github.com/Igahemmanuel1/deploy-github.git",
   "name": "todoapp",
   "private": true,
   "version": "0.0.0",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "gh-pages": "^6.1.1",
+    "install": "^0.13.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.2.1",
