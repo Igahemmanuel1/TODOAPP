@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Igahemmanuel1/deploy-github.git",
+  "homepage": "git remote add origin https://github.com/Igahemmanuel1/Todo-List-App.git",
   "name": "todoapp",
   "private": true,
   "version": "0.0.0",
